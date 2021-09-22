@@ -24,11 +24,11 @@ In the less expensive technique of equilibrium unfolding, the fractions of folde
 
 Protein stabilities are typically found to vary linearly with the denaturant concentration. A number of models have been proposed to explain this observation prominent among them being the **denaturant binding model, solvent-exchange model** and the **Linear Energy Model (LEM)**. All of the models assume that only two thermodynamic states are populated/de-populated upon denaturation. They could be extended to interpret more complicated reaction schemes.
 
-The denaturant binding model assumes that there are specific but independent sites on the protein molecule (folded or unfolded) to which the denaturant binds with an effective (average) binding constant k. The equilibrium shifts towards the unfolded state at high denaturant concentrations as it has more binding sites for the denaturant relative to the folded state (În). In other words, the increased number of potential sites exposed in the unfolded state is seen as the reason for denaturation transitions. An elementary treatment results in the following functional form:  
+The denaturant binding model assumes that there are specific but independent sites on the protein molecule (folded or unfolded) to which the denaturant binds with an effective (average) binding constant k. The equilibrium shifts towards the unfolded state at high denaturant concentrations as it has more binding sites for the denaturant relative to the folded state (Δn). In other words, the increased number of potential sites exposed in the unfolded state is seen as the reason for denaturation transitions. An elementary treatment results in the following functional form:  
 
 <img src="images/form3.gif">	         
 <br/>      
-where  ÎGw is the stability of the protein in water and [D] is the denaturant concentration. Thus the analysis of denaturation data with this model requires 7 parameters: ÎGw, În, k, and the slopes and intercepts of the folded and unfolded state baselines.
+where  ΔGw is the stability of the protein in water and [D] is the denaturant concentration. Thus the analysis of denaturation data with this model requires 7 parameters: vGw, Δn, k, and the slopes and intercepts of the folded and unfolded state baselines.
 
 The solvent exchange model (also called the 'weak binding model' or 'selective solvation') of Schellman invokes the idea of an equilibrium between the water molecules bound to independent sites on protein and the denaturant molecules in solution. It has the form:
 
@@ -42,7 +42,7 @@ Intuitively, the difference in the number of binding sites between the folded an
 <img src="images/form5.gif">	     	     
 <br/>
 
-where the slope m is called the "m-value"(> 0 for the above definition) and [D]<sub>1/2</sub (also called Cm) represents the denaturant concentration at which 50% of the molecules are folded (the denaturation midpoint of the transition, where pN = pU = 1 / 2).
+where the slope m is called the "m-value"(> 0 for the above definition) and [D]<sub>1/2</sub> (also called Cm) represents the denaturant concentration at which 50% of the molecules are folded (the denaturation midpoint of the transition, where pN = pU = 1 / 2).
 
 In practice, the observed experimental data at different denaturant concentrations are fit to a two-state model with this functional form for ΔG, together with linear baselines for the folded and unfolded states. The m and [D]<sub>1/2</sub> are two fitting parameters, along with four others for the linear baselines (slope and intercept for each line); in some cases, the slopes are assumed to be zero, giving four fitting parameters in total. The conformational stability  ΔG can be calculated for any denaturant concentration (including the stability at zero denaturant) from the fitted parameters m and [D]<sub>1/2</sub>. When combined with kinetic data on folding, the m-value can be used to roughly estimate the amount of buried hydrophobic surface in the folding transition state.  
 
