@@ -1,1 +1,8 @@
-### Aim of the experiment
+In Experiment 8 we have seen how a protein denatures at high temperature. But temperature is not the sole factor that causes denaturation of proteins. The chemical environment is another factor that is responsible for denaturation of protein. Change of pH of the environment or presence of denaturing chemical in high concentration in the medium causes denaturation of protein.  
+
+In our daily life we have seen many such examples. Formation of paneer from milk is one of them. The following video shows how egg protein albumin denatures in a highly acidic medium.  
+
+In chemical denaturation the secondary bonds holding the protein segments together are disrupted by some chemicals capable of forming equally strong or stronger bonds with the groups holding the conformation together. For disrupting the hydrogen bonds, urea or guanidine hydrochloride are used. At high concentrations of these substances (e.g, 8M urea or 5M guanidine hydrochloride) many proteins adopt a highly unfolded conformation in solution. Proteins of multiple subunits are likely to be separated into their constituent polypeptide chains. Other proteins aggregate upon denaturation in urea or guanidine hydrochloride which is frequently due to the formation of disulphide bridges between sulphydryl groups made accessible by the unfolding of the polypeptide chains.  
+
+This experiment has two parts. In the first part we will observe how helical membrane protein Rhodopsin looses its native structure and unfolds in presence of some denaturing chemicals like urea, SDS, GuHCl and TFA. We will compare their denaturing capability. In the second part of the experiment we will observe how the extend of unfolding depends on the concentration of the chemical. We will try to see the transition between folded and unfolded state and find out the concentration at which the transition takes place.  
+
