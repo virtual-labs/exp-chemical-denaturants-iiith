@@ -1,7 +1,11 @@
 **1. Video Tutorial**
 
-- click [here](.videos/manual_exp9.swf) to ENLARGE.
-
+<p>
+<param name="movie" value="manual_exp9.swf"></param>
+<embed src="manual_exp9.swf"></embed>
+</p>
+- click [here](.videos/manual_exp9.swf) to ENLARGE.  
+ 
 
 **2. Step-by-step Procedure**
 
