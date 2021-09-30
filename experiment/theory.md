@@ -28,13 +28,14 @@ The denaturant binding model assumes that there are specific but independent sit
 
 <img src="images/form3.gif">	         
 <br/>      
-where  ΔGw is the stability of the protein in water and [D] is the denaturant concentration. Thus the analysis of denaturation data with this model requires 7 parameters: ΔGw, Δn, k, and the slopes and intercepts of the folded and unfolded state baselines.
+where  ΔGw is the stability of the protein in water and [D] is the denaturant concentration. Thus the analysis of denaturation data with this model requires 7 parameters: vGw, Δn, k, and the slopes and intercepts of the folded and unfolded state baselines.
 
 The solvent exchange model (also called the 'weak binding model' or 'selective solvation') of Schellman invokes the idea of an equilibrium between the water molecules bound to independent sites on protein and the denaturant molecules in solution. It has the form:
 
 <img src="images/form4.gif">	    
-<br/>      
-where K is the equilibrium constant for the exchange reaction and Xd is the mole-fraction of the denaturant in solution. This model tries to answer the question of whether the denaturant molecules actually bind to the protein or they seem to be bound just because denaturants occupy about 20-30 % of the total solution volume at high concentrations used in experiments, i.e. non-specific effects - and hence the term 'weak binding'. As in the denaturant-binding model, fitting to this model also requires 7 parameters. One common theme obtained from both these models is that the binding constants (in the molar scale) for urea and guanidinium hydrochloride are small: ~ 0.2 M<sup>-1</sup> for urea and 0.6<sup>M-1</sup> for GuHCl.  
+<br/>     
+
+where K is the equilibrium constant for the exchange reaction and Xd is the mole-fraction of the denaturant in solution. This model tries to answer the question of whether the denaturant molecules actually bind to the protein or they seem to be bound just because denaturants occupy about 20-30 % of the total solution volume at high concentrations used in experiments, i.e. non-specific effects - and hence the term 'weak binding'. As in the denaturant-binding model, fitting to this model also requires 7 parameters. One common theme obtained from both these models is that the binding constants (in the molar scale) for urea and guanidinium hydrochloride are small: ~ 0.2 M<sup>-1</sup> for urea and 0.6M<sup>-1</sup> for GuHCl.  
 
 Intuitively, the difference in the number of binding sites between the folded and unfolded states is directly proportional to the differences in the accessible surface area. This forms the basis for the LEM which assumes a simple linear dependence of stability on the denaturant concentration. The resulting slope of the plot of stability versus the denaturant concentration is called the m-value. In pure mathematical terms, m-value is the derivative of the change in stabilization free energy upon the addition of denaturant. However, a strong correlation between the accessible surface area (ASA) exposed upon unfolding, i.e. difference in the ASA between the unfolded and folded state of the studied protein (dASA), and the m-value has been documented by Pace and co-workers. In view of this observation, the m-values are typically interpreted as being proportional to the dASA. There is no physical basis for the LEM and is purely empirical, though it is widely used in interpreting solvent-denaturation data. It has the general form:
 
@@ -43,7 +44,8 @@ Intuitively, the difference in the number of binding sites between the folded an
 
 where the slope m is called the "m-value"(> 0 for the above definition) and [D]<sub>1/2</sub> (also called Cm) represents the denaturant concentration at which 50% of the molecules are folded (the denaturation midpoint of the transition, where pN = pU = 1 / 2).
 
-In practice, the observed experimental data at different denaturant concentrations are fit to a two-state model with this functional form for ΔG, together with linear baselines for the folded and unfolded states. The m and [D]1/2 are two fitting parameters, along with four others for the linear baselines (slope and intercept for each line); in some cases, the slopes are assumed to be zero, giving four fitting parameters in total. The conformational stability  ΔG can be calculated for any denaturant concentration (including the stability at zero denaturant) from the fitted parameters m and [D]<sub>1/2</sub>. When combined with kinetic data on folding, the m-value can be used to roughly estimate the amount of buried hydrophobic surface in the folding transition state.  
+In practice, the observed experimental data at different denaturant concentrations are fit to a two-state model with this functional form for ΔG, together with linear baselines for the folded and unfolded states. The m and [D]<sub>1/2</sub> are two fitting parameters, along with four others for the linear baselines (slope and intercept for each line); in some cases, the slopes are assumed to be zero, giving four fitting parameters in total. The conformational stability  ΔG can be calculated for any denaturant concentration (including the stability at zero denaturant) from the fitted parameters m and [D]<sub>1/2</sub>. When combined with kinetic data on folding, the m-value can be used to roughly estimate the amount of buried hydrophobic surface in the folding transition state.  
+
 
 **Chemical Denaturants**
 
