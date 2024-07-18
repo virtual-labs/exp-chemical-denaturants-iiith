@@ -6,7 +6,7 @@
          "c":"angle of rotation about the bonds of backbone and amino acid side-chains",
          "d":"measure of dihedral angle at the peptide"
          },
-"correctanswers":"c"},
+"correctAnswer":"c"},
 
 {"question":"2.  Chemical denaturation denotes marked change in protein structure of the native protein in response to: ",
 "answers":{
@@ -15,7 +15,7 @@
          "c":"Disruption of weak interactions by boiling",
          "d":"Exposure to detergents"
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"3. Which of the following chemical denaturant is not an inorganic salt?",
 "answers":{
@@ -24,7 +24,7 @@
          "c":"Dimethyl Formamide",
          "d":"Sodium iodide"
          },
-"correctanswers":"c"},
+"correctAnswer":"c"},
 
 {"question":"4. What mol/l of Urea acts as a Chaotrophic chemical denaturant?",
 "answers":{
@@ -33,7 +33,7 @@
          "c":"10 -12 mol/l",
          "d":"2-4 mol/l"
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"5. Acids and bases denature a protein by disrupting:",
 "answers":{
@@ -43,6 +43,6 @@
          "d":"amide bonds and alkene bonds",
          "e":"ionic bonds and hydrophobic interactions"
          },
-"correctanswers":"c"}
+"correctAnswer":"c"}
 
 ]
