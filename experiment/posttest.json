@@ -7,7 +7,7 @@
          "d":"hydrophilic interactions",
          "e":"peptide bonds" 
          },
-"correctanswers":"e"},
+"correctAnswer":"e"},
 
 {"question":"2. The most important contribution to the stability of a protein's conformation appears to be the: ",
 "answers":{
@@ -16,7 +16,7 @@
          "c":"sum of free energies of formation of many weak interactions among the hundreds of amino acids in a protein.",
          "d":"sum of free energies of formation of many weak interactions between its polar amino acids and surrounding water."
          },
-"correctanswers":"a"},
+"correctAnswer":"a"},
 
 {"question":"3. Which of the following chemical denaturant is a cross-linking reagent?",
 "answers":{
@@ -25,7 +25,7 @@
          "c":"Formamide.",
          "d":"Sodium dodecyl sulphate."
          },
-"correctanswers":"a"},
+"correctAnswer":"a"},
 
 {"question":"4. An average protein will not be denatured by: ",
 "answers":{
@@ -34,6 +34,6 @@
          "c":"heating to 90°C.",
          "d":"urea."
          },
-"correctanswers":"b"}
+"correctAnswer":"b"}
 
 ]
