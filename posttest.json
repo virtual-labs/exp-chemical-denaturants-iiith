@@ -1,0 +1,39 @@
+[
+{"question":"1. What kind of interactions are not part of the protein tertiary structure ?",
+"answers":{
+         "a":"disulphide bonds",
+         "b":"hydrophobic interactions",
+         "c":"salt bridges",
+         "d":"hydrophilic interactions",
+         "e":"peptide bonds" 
+         },
+"correctAnswer":"e"},
+
+{"question":"2. The most important contribution to the stability of a protein's conformation appears to be the: ",
+"answers":{
+         "a":"entropy increase from the decrease in ordered water molecules forming a solvent shell around it.",
+         "b":"maximum entropy increase from ionic interactions between the ionized amino acids in a protein. ",
+         "c":"sum of free energies of formation of many weak interactions among the hundreds of amino acids in a protein.",
+         "d":"sum of free energies of formation of many weak interactions between its polar amino acids and surrounding water."
+         },
+"correctAnswer":"a"},
+
+{"question":"3. Which of the following chemical denaturant is a cross-linking reagent?",
+"answers":{
+         "a":"Formaldehyde.",
+         "b":"Dimethyl Formamide.",
+         "c":"Formamide.",
+         "d":"Sodium dodecyl sulphate."
+         },
+"correctAnswer":"a"},
+
+{"question":"4. An average protein will not be denatured by: ",
+"answers":{
+         "a":"a detergent such as sodium dodecyl sulfate.",
+         "b":"iodoacetic acid.",
+         "c":"heating to 90°C.",
+         "d":"urea."
+         },
+"correctAnswer":"b"}
+
+]

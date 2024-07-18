@@ -1,0 +1,48 @@
+[
+{"question":"1. Different conformations of the protein differ only in:",
+"answers":{
+         "a":"distance between the bonds of backbone and amino acid side chains",
+         "b":"number of amino acid side-chains",
+         "c":"angle of rotation about the bonds of backbone and amino acid side-chains",
+         "d":"measure of dihedral angle at the peptide"
+         },
+"correctAnswer":"c"},
+
+{"question":"2.  Chemical denaturation denotes marked change in protein structure of the native protein in response to: ",
+"answers":{
+         "a":"change in temperature",
+         "b":"acid or alkali",
+         "c":"Disruption of weak interactions by boiling",
+         "d":"Exposure to detergents"
+         },
+"correctAnswer":"b"},
+
+{"question":"3. Which of the following chemical denaturant is not an inorganic salt?",
+"answers":{
+         "a":"Lithium bromide",
+         "b":"Potassium thiocyanate",
+         "c":"Dimethyl Formamide",
+         "d":"Sodium iodide"
+         },
+"correctAnswer":"c"},
+
+{"question":"4. What mol/l of Urea acts as a Chaotrophic chemical denaturant?",
+"answers":{
+         "a":"7-14 mol/l",
+         "b":"6-8 mol/l",
+         "c":"10 -12 mol/l",
+         "d":"2-4 mol/l"
+         },
+"correctAnswer":"b"},
+
+{"question":"5. Acids and bases denature a protein by disrupting:",
+"answers":{
+         "a":"peptide bonds and ionic bonds",
+         "b":"hydrophobic interactions and peptide bonds",
+         "c":"ionic bonds and hydrogen bonds",
+         "d":"amide bonds and alkene bonds",
+         "e":"ionic bonds and hydrophobic interactions"
+         },
+"correctAnswer":"c"}
+
+]
